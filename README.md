@@ -20,4 +20,5 @@ Key Libraries:
   * Matplotlib for plotting the results
   * TensorFlow & Keras for building and training the LSTM model
   * Scikit-learn for data normalization
+
 This project demonstrates the use of machine learning models, specifically LSTM networks, for forecasting future stock prices based on historical data.
