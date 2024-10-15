@@ -14,6 +14,7 @@ Key Features:
     * The model's predictions are evaluated on both the training data and future time periods.
     * Visualized the actual vs predicted stock prices using Matplotlib, giving insights into model performance.
     * Predicted stock prices for the next 10 days, allowing users to make forecasts based on recent trends.
+
 Key Libraries:
   * Pandas for data manipulation
   * NumPy for numerical computations
